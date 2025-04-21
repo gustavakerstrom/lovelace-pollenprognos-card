@@ -1,0 +1,11 @@
+{
+    "name": "Pollenprognos Card",
+    "description": "A Lovelace custom card for custom component Pollenprognos.",
+    "render_readme": true,
+    "filename": "pollenprognos-card.js",
+    "resorces": true,
+    "country": "SE",
+    "file_include": [
+        "pollen_img/*"
+    ]
+}
